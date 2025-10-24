@@ -20,3 +20,10 @@ Manage a DevOps project using Git best practices.
 ## Maintainers
 Team Elevate Labs
 
+## Completed Steps
+1. Initialized Git repo locally
+2. Created GitHub repository
+3. Added README.md and .gitignore
+4. Created branches: main, dev, feature
+5. Created PRs and merged code
+6. Tagged initial release
